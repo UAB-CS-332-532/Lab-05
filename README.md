@@ -14,6 +14,8 @@ Date: ____________
 
 Modify the *ReadDir_V2.c* file to traverse the file hierarchy recursively.
 
+(ReadDir_V2.c can be found here: https://github.com/UAB-CS-332-532/Lab-05/blob/497c1fe17bf68d9220c2b99fd92da880a2df47ec/ReadDir_V2.c)
+
 - You should list all sub-directories and the files in those sub-directories.
 
 - You should create a function *"recursivelyTraverseFileHiearchy"* that recursively calls itself on each sub-directory.
