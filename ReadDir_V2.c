@@ -1,6 +1,5 @@
 /* Sample C program to illustrate the use of opendir, readdir, and closedir
- * system calls. 
- * This version prints the file type next to the file name.
+ * system calls. This version prints the file type next to the file name.
  */
 #include <stdio.h> 
 #include <stdlib.h>
