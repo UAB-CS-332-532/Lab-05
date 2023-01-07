@@ -26,13 +26,22 @@ Modify the *ReadDir_V2.c* file to traverse the file hierarchy recursively.
 
 ## Example:
 
-> (base) ~/Desktop/SP23/CS/CS-332-532/Labs/Lab-05> ./lab05.out ../
->> [1] .DS_Store (regular file)
->> [2] Lab-01 (directory)
->>>    [1] README.md (regular file)
->>>    [2] a.out (regular file)
->>>    [3] .gitignore (regular file)
->>>    [4] HelloWorld.c (regular file)
->>>    [5] .git (directory)
->>>>        [1] config (regular file)
->>>>        [2] objects (directory)
+> $ ./lab05 ../
+>
+> [1] .DS_Store (regular file)
+>
+> [2] Lab-01 (directory)
+>
+>    [1] README.md (regular file)
+>
+>    [2] a.out (regular file)
+>
+>    [3] .gitignore (regular file)
+>
+>    [4] HelloWorld.c (regular file)
+>
+>    [5] .git (directory)
+>
+>        [1] config (regular file)
+>
+>        [2] objects (directory)
