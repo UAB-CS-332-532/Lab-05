@@ -26,8 +26,7 @@ Modify the *ReadDir_V2.c* file to traverse the file hierarchy recursively.
 
 ## Example:
 
-> $ ./lab05 ../
->
+` $ ./lab05 ../
 > [1] .DS_Store (regular file)
 >
 > [2] Lab-01 (directory)
@@ -45,3 +44,4 @@ Modify the *ReadDir_V2.c* file to traverse the file hierarchy recursively.
 >        [1] config (regular file)
 >
 >        [2] objects (directory)
+`
